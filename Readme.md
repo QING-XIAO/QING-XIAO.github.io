@@ -4,6 +4,8 @@
 > 如果你也想通过 Github Page 搭建个人博客，可以参考[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/README.md)的这篇文章, 此博客通过这篇文章教程搭建的，
 >
 > 在此感谢 BY 大佬, 仓库Fork with BlackDn.
+>
+> **PS:** 封面先借用下, 之后再慢慢搞, 侵删~
 
 ### 本地调试
 > 将仓库clone到本地后cd到目录输入如下命令构建sever. 
