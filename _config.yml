@@ -1,29 +1,29 @@
 # Site settings
-title: BlackDn
-SEOTitle: WelcomeQwQ
-header-img: img/acg.gy_06.jpg
+title: QING-XIAO Blog
+SEOTitle: QING-XIAO的博客 | QING-XIAO Blog
+header-img: img/Blog-background.jpg
 email: 
-  - blackdn233@outlook.com
-  - 940045828@qq.com
-description: "The owner is too lazy to write something..."
-keyword: "Thanks for the world."
-url: "https://blackdn.github.io/" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/BlackDn/BlackDn.github.io.git" # you code repository
+description: "没有说出口的特别喜欢, 就像一场无声无息的鲸落."
+keyword: "King."
+url: "http://QING-XIAO.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/QING-XIAO/QING-XIAO.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "宁山间碎骨，沉河不浮"
-sidebar-avatar: /img/headm.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "To be, or not to be, that is the question!"
+sidebar-avatar: /img/My-photo.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
 
 # SNS settings
 RSS: false
-weibo_username: 2751763927
-zhihu_username: xiao-hei-hei-za
-github_username: BlackDn
-# facebook_username:
-# jianshu_username:
-# twitter_username:
+# weibo_username:     qiubaiying
+# zhihu_username:     qiubaiying
+github_username:    QING-XIAO
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -35,7 +35,7 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -52,13 +52,17 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true #是否开启Gitalk评论
-  clientID: a511cf26cd7a99e1fa58 #生成的clientID
-  clientSecret: 79b9103623b3470b4ff821ec9c214c025e6fe7ce #生成的clientSecret
-  repo: Gitalk-for-Blog #仓库名称
-  owner: BlackDn #github用户名
-  admin: [BlackDn]
+  enable: false    #是否开启Gitalk评论
+  clientID: Ov23liUiiAldUT4pGnfs    #生成的clientID
+  clientSecret: 1e509dd223e8b4cdb7d5b7502b5f980cf90444c1   #生成的clientSecret
+  repo: gitalk-comments    #仓库名称
+  owner: QING-XIAO    #github用户名
+  admin: QING-XIAO
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
+
+# giscus
+giscus:
+  enable: true    #是否开启giscus评论
 
 # 统计
 
@@ -67,21 +71,24 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: "UA-243350418-1" # Format: UA-xxxxxx-xx
-ga_domain: auto # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: "UA-243350418-1" # Format: UA-xxxxxx-xx
+# ga_domain: auto # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 # Featured Tags
 featured-tags: true # 是否使用首页标签
-featured-condition-size: 1 # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0 # 相同标签数量大于这个数，才会出现在首页
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # Friends
-friends:
-  [
-    { title: "我的CSDN", href: "https://blog.csdn.net/weixin_43314579" },
-    { title: "Xi4or0uji", href: "https://xi4or0uji.github.io/" },
-    { title: "Lois蒙混过关", href: "https://LOISMENG-QH.github.io/" },
-  ]
+friends: [
+    {
+        title: "Windows",
+        href: "https://www.microsoft.com/zh-cn/software-download"
+    },{
+        title: "GitHub",
+        href: "https://github.com/QING-XIAO"
+    }
+]
