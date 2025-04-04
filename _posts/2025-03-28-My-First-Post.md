@@ -4,7 +4,7 @@ title:      My First Post 				# 标题
 subtitle:   我的第一篇博客 #副标题
 date:       2025-03-28 				# 时间
 author:     QING-XIAO						# 作者
-header-img: img/post-First-blog.png 	#这篇文章标题背景图片
+header-img: img/19mon5_23.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 碎碎念
