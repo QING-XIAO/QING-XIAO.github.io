@@ -12,12 +12,14 @@ tags:								#标签
 
 ### GitHub - Star项目
 
-> [GitHub官网](https://github.com/)众多好用开源项目, 经常被墙, vpn或者steam++加速来访问
+> [GitHub官网](https://github.com/){:target="_blank"}众多好用开源项目, 经常被墙, vpn或者steam++加速来访问
 >
 > **注意:**Github上项目文件的”Raw”右键复制的链接和点击Raw所展示的链接不一样, 点击后展示的链接是直链
 
  - #### Telegram – 电报
-> [桌面端](https://github.com/telegramdesktop/tdesktop)、[官网](https://telegram.org/)
+> [桌面端](https://github.com/telegramdesktop/tdesktop){:target="_blank"}
+> 
+> [官网](https://telegram.org/){:target="_blank"}
 
 - #### GoogleTranslateIpCheck – 谷歌翻译可用IP
 > [GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck)下载release文件后直接访问项目中ip.txt的[Raw URL: ip.txt](https://raw.githubusercontent.com/Ponderfly/GoogleTranslateIpCheck/refs/heads/master/src/GoogleTranslateIpCheck/GoogleTranslateIpCheck/ip.txt)链接, 将获取的ip地址粘贴到ip.txt文件后再运行GoogleTranslateIpCheck.exe
