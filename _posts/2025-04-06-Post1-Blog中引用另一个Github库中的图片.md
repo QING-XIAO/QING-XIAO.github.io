@@ -7,7 +7,7 @@ author:     QING-XIAO						# 作者
 header-img: //raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/background/img1.jpg	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - Picture
+    - Blog
 ---
 
 博客是基于GitHub Pages搭建的, 没有搞图床所以文章的背景图以及内部引用的图片都存储在GitHub仓库, 但Github仓库貌似有限制空间不能>1GB, 那就多建立几个仓库用来存放img就是了, 开搞!
