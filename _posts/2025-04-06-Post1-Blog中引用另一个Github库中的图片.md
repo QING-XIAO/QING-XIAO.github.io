@@ -42,7 +42,7 @@ header-img: //raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/backg
 
 ### 获取图片Raw URL
 在Github仓库内直接复制图片链接所获取的不是图片的真实地址, 需要转换格式不过可以搭配下面的油猴脚本来自动转换为图片的Raw URL
-> PS: 有点小问题就是访问图片脚本不会自动执行每次都需要刷新一下页面才行
+> PS: 有点小问题就是访问图片时脚本不会自动执行每次都需要刷新一下页面才行
 
 ```javascript
 // ==UserScript==
@@ -116,7 +116,6 @@ header-img: //raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/backg
 })();
 ```
 
-
-
 最后的最后~
+
 ![ByeBye](/img/thank-you.jpg "Thank you!")
