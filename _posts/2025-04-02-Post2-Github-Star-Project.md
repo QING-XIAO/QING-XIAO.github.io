@@ -16,7 +16,21 @@ tags:								#标签
 >
 > **注意:**Github上项目文件的”Raw”右键复制的链接和点击Raw所展示的链接不一样, 点击后展示的链接是直链
 
- - #### Telegram – 电报
+- #### legado -- 阅读
+> <a href="https://github.com/gedoor/legado" target="_blank">legado</a> 一款开源阅读电子书工具
+>
+> **书源获取:** <a href="https://github.com/XIU2/Yuedu" target="_blank">Yuedu</a>、<a href="https://www.yckceo.com/yuedu/shuyuan" target="_blank">源仓库</a>、<a href="https://shuyuan.yiove.com/normal" target="_blank">Yoive书源</a>
+
+- #### Catime - 计时器(🍅番茄时钟)
+> <a href="https://github.com/vladelaina/Catime" target="_blank">Catime</a> 一款简洁的Windows倒计时工具, 支持番茄时钟功能, 具有透明界面和丰富的自定义选项
+
+- #### hoppscotch - API调试工具
+> <a href="https://github.com/hoppscotch/hoppscotch" target="_blank">hoppscotch</a>
+
+- #### giscus - 评论系统
+> <a href="https://github.com/giscus/giscus" target="_blank">giscus</a> 由 GitHub Discussions 提供支持的评论系统, 必须要打开仓库的 **Discussions** 功能后进到 <a href="https://giscus.app/" target="_blank">giscus设置</a> 来启用功能
+
+- #### Telegram – 电报
 > <a href="https://github.com/telegramdesktop/tdesktop" target="_blank">桌面端</a>
 > 
 > <a href="https://telegram.org/" target="_blank">官网</a>
