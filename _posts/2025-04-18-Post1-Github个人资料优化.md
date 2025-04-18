@@ -60,3 +60,6 @@ tags:								#标签
 > 🌈 动态彩色图像渲染
 
   ![动态图像](https://capsule-render.vercel.app/api?type=waving&height=160&color=72c7ff&reversal=true&section=footer)
+
+
+  ![ByeBye](/img/thank-you.jpg "Thank you!")
