@@ -30,7 +30,7 @@ tags:								#标签
 - #### <a href="https://github.com/ryo-ma/github-profile-trophy/" target="_blank">github-profile-trophy</a>
 > 🏆 在自述文件中添加动态生成的 **GitHub Stat Trophies**
 
-  ![🏆奖杯资料](https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism)
+  ![🏆奖杯资料](https://github-profile-trophy.vercel.app/?username=QING-XIAO&theme=buddhism&column=-1&margin-w=13)
 
 - #### <a href="https://github.com/badges/shields" target="_blank">shields</a>
 > 提供简洁、一致且清晰易读的 SVG 和光栅格式徽章服务，可以轻松添加到 GitHub 自述文件或任何其他网页中
