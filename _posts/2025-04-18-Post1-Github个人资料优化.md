@@ -22,6 +22,11 @@ tags:								#标签
 
 ![动态统计数据](https://github-readme-stats.vercel.app/api?username=QING-XIAO&count_private=true&show_icons=true&theme=tokyonight)
 
+- #### <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">github-readme-streak-stats</a>
+> GitHub 个人资料 README 上 显示您的总贡献、当前连续贡献 和最长连续贡献
+
+  ![贡献记录](https://streak-stats.demolab.com?user=QING-XIAO&theme=tokyonight-duo&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84&card_width=500&card_height=190)
+
 - #### <a href="https://github.com/ryo-ma/github-profile-trophy/" target="_blank">github-profile-trophy</a>
 > 🏆 在自述文件中添加动态生成的 **GitHub Stat Trophies**
 
