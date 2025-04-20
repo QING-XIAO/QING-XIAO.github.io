@@ -16,6 +16,11 @@ tags:								#标签
 >
 > **注意:**Github上项目文件的”Raw”右键复制的链接和点击Raw所展示的链接不一样, 点击后展示的链接是直链
 
+- #### Authenticator -- 2FA身份验证器
+> <a href="https://github.com/Authenticator-Extension/Authenticator" target="_blank">Authenticator</a> 在浏览器中生成两步验证码
+>
+> 比如Github要求开启2FA双因素身份验证, 大陆无法接收到短信验证码就可以通过Authenticator生成基于时间的一次性密码 (TOTP) 来进行登录. 
+
 - #### legado -- 阅读
 > <a href="https://github.com/gedoor/legado" target="_blank">legado</a> 一款开源阅读电子书工具
 >
