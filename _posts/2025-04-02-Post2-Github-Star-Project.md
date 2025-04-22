@@ -24,7 +24,7 @@ tags:								#标签
 - #### legado -- 阅读
 > <a href="https://github.com/gedoor/legado" target="_blank">legado</a> 一款开源阅读电子书工具
 >
-> **书源获取:** <a href="https://github.com/XIU2/Yuedu" target="_blank">Yuedu</a>、<a href="https://www.yckceo.com/yuedu/shuyuan" target="_blank">源仓库</a>、<a href="https://shuyuan.yiove.com/normal" target="_blank">Yoive书源</a>
+> **书源获取:** <a href="https://github.com/XIU2/Yuedu" target="_blank">Yuedu</a>、<a href="https://www.yckceo.com/yuedu/shuyuan" target="_blank">源仓库</a>、<a href="https://shuyuan.yiove.com/normal" target="_blank">Yiove书源</a>
 
 - #### Catime - 计时器(🍅番茄时钟)
 > <a href="https://github.com/vladelaina/Catime" target="_blank">Catime</a> 一款简洁的Windows倒计时工具, 支持番茄时钟功能, 具有透明界面和丰富的自定义选项
@@ -97,8 +97,7 @@ tags:								#标签
 > 
 > <a href="https://notepad-plus-plus.org/" target="_blank">官网</a>(需翻墙访问)
 >
-> 一款轻量编辑软件, 秒开大文件适合做记事本替代品, 内置众多功能, 是个好软件就是作者辱华有点SB
-五六百兆以上的文件可能就打不开了, 可以用NDD #NDD 或者Emeditor #lrepacks
+> 一款轻量编辑软件, 秒开大文件适合做记事本替代品, 内置众多功能, 是个好软件就是作者辱华有点SB, 五六百兆以上的文件可能就打不开了, 可以用 <a href="https://gitee.com/cxasm/notepad--" target="_blank">NDD</a> 或者 <a href="https://lrepacks.net/repaki-programm-dlya-ofisa/613-emeditor-1897-repack-amp-portable.html" target="_blank">Emeditor</a>
 
 - #### V2rayN – 代理软件
 > <a href="https://github.com/2dust/v2rayN" target="_blank">V2rayN</a>代理软件搭配机场节点使用
