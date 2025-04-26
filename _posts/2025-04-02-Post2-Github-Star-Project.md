@@ -25,8 +25,39 @@ tags:								#标签
 
 - #### legado -- 阅读
 > <a href="https://github.com/gedoor/legado" target="_blank">legado</a> 一款开源阅读电子书工具
->
-> **书源获取:** <a href="https://github.com/XIU2/Yuedu" target="_blank">Yuedu</a>、<a href="https://www.yckceo.com/yuedu/shuyuan" target="_blank">源仓库</a>、<a href="https://shuyuan.yiove.com/normal" target="_blank">Yiove书源</a>
+
+  - ##### 书源获取
+  > **书源:** <a href="https://github.com/XIU2/Yuedu" target="_blank">Yuedu</a>、<a href="https://yckceo.vip/" target="_blank">源仓库</a>、<a href="https://shuyuan.yiove.com/normal" target="_blank">Yiove书源</a>、<a href="https://yuedu.miaogongzi.net/gx.html" target="_blank">喵公子</a>、<a href="https://legado.aoaostar.com/" target="_blank">AOAOSTAR</a>、<a href="https://flowus.cn/ycheng/share/923f5a35-6dcf-47d1-b8eb-b9c5ef3ed39b" target="_blank">一程</a>、<a href="https://github.com/jiwangyihao/source-j-legado" target="_blank">吉王义昊(轻小说)</a>
+  >
+  > **导入方式:** 我的 - 书源管理 - 右上角 - ┇ - 更多 - 网络导入 - 粘贴网址并确定; 或者点击书源链接跳转到阅读APP导入
+  >
+  > **注意事项:** 书源具有时效性，由于网站域名变更、接口变化、停止运营等原因会导致书源失效，建议导入近期更新的书源，或者导入有大佬维护更新，修复和剔除无效源的书源合集，使用起来更加舒心
+
+  - ##### 净化替换规则
+  > **导入方式:** 我的 - 净化替换 - 右上角 - ┇ - 更多 - 网络导入 - 粘贴网址并确定
+
+    ```
+    https://legado.aoaostar.com/sources/3f067eb2.json
+    ```
+  
+
+  - ##### 主题设置
+  > **主题:** <a href="https://flowus.cn/miumiu/share/69a9315e-d59d-4d95-8d0c-acd8d02ff278" target="_blank">MiuMiu</a>、<a href="https://flowus.cn/share/ec210dfb-0379-4874-bfb9-af9499ab5af8" target="_blank">Cyann</a>、<a href="https://flowus.cn/share/50dcf0e6-8646-4227-81dd-a90960ba77fc" target="_blank">JINGWinky</a>
+  >
+  > **颜色代码:** 我的 - 主题设置 - 主题列表 - 剪贴板导入
+  >
+  > **启动图:** 我的 - 主题设置 - 启动界面样式 - 背景图片
+  >
+  > **封面图:** 我的 - 主题设置 - 封面设置 - 默认封面(默认从书源网站获取封面，无法获取封面则使用默认封面，若想统一使用默认封面，需启用"总是使用默认封面")
+  > 
+  > **主题背景:** 我的 - 主题设置 - 背景图片
+  >
+  > **阅读背景:** 打开任意书籍 - 点击中央弹出阅读菜单 - 界面 - 文字颜色和背景 - 长按进行自定义 - 选择图片
+  >
+  > **布局排版:** 还要根据实际情况微调布局排版 - 界面 - 边距(调整) - 信息("页眉" "页脚"调整)
+
+  - ##### 效果展示
+  ![1](https://raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/post/20250402/img1.jpg)
 
 - #### Catime - 计时器(🍅番茄时钟)
 > <a href="https://github.com/vladelaina/Catime" target="_blank">Catime</a> 一款简洁的Windows倒计时工具, 支持番茄时钟功能, 具有透明界面和丰富的自定义选项
