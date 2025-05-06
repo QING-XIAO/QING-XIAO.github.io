@@ -54,10 +54,9 @@ tags:								     #标签
   yt-dlp -U
   ```
 > 命令太多了有需要去github上查阅就是了, B站有个限制不登录账号最多就能获取到1080p视频, 不过貌似可以用命令调用cookies进行下载
->
-> 自用命令如下:
 
   ```
+  自用命令如下:
   yt-dlp -f XXX+XXX --merge-output-format mp4 -o "D:/QING/Downloads/%(title)s.%(ext)s" "URL"
   ```
 
