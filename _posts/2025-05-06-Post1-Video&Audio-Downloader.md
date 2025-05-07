@@ -67,16 +67,16 @@ tags:								     #标签
   yt-dlp -U
   ```
 
+  > **自用命令如下:**
 
   ```
-  自用命令如下:
-
   yt-dlp --cookies "D:\RuanJian\yt-dlp\cookies.txt" -F "https://www.bilibili.com/video/BV1Q5cWeyEZe/?spm_id_from=333.337.search-card.all.click&vd_source=edb895583eda476ea7670a1d9f216861"
 
   yt-dlp --cookies "D:\RuanJian\yt-dlp\cookies.txt" -f 30116+30280 --merge-output-format mp4 -o "D:/QING/Downloads/%(title)s.%(ext)s" "https://www.bilibili.com/video/BV1Q5cWeyEZe/?spm_id_from=333.337.search-card.all.click&vd_source=edb895583eda476ea7670a1d9f216861"
   ```
 
-  > 最终结果如图
+  > 执行结果如图
+
   ![2](https://raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/post/20250506/img2.jpg)
 
 ---
