@@ -61,7 +61,7 @@ tags:								     #标签
   OSError: [Errno 22] Invalid argument: '\u202aC:/Users/QING/Desktop/cookies.txt'****
   ```
 
-> 手动更新版本（需管理员权限）
+  > 手动更新版本（需管理员权限）
 
   ```
   yt-dlp -U
@@ -76,8 +76,9 @@ tags:								     #标签
   yt-dlp --cookies "D:\RuanJian\yt-dlp\cookies.txt" -f 30116+30280 --merge-output-format mp4 -o "D:/QING/Downloads/%(title)s.%(ext)s" "https://www.bilibili.com/video/BV1Q5cWeyEZe/?spm_id_from=333.337.search-card.all.click&vd_source=edb895583eda476ea7670a1d9f216861"
   ```
 
-> 最终结果如图
-![2](https://raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/post/20250506/img2.jpg)
+  > 最终结果如图
+  ![2](https://raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/post/20250506/img2.jpg)
+
 ---
 
   ![ByeBye](/img/thank-you.jpg "Thank you!")
