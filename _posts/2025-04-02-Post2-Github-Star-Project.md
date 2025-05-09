@@ -78,7 +78,7 @@ tags:								#标签
 - #### iptv-api – 目前好用的IPV4接口更新项目
 > <a href="https://github.com/Guovin/iptv-api" target="_blank">iptv-api</a>这个项目可以整合筛选出可用的ipv4源
 >
-> 有详细的操作文档可以将该项目Fork到自己的仓库, 在user_demo.txt设置所需节目注意不要太多, 在user_config.ini文件里设置好各参数, 开启Github的工作流可以实现每天早晚六点的自动更新, 只要将output下<a href="https://raw.githubusercontent.com/QING-XIAO/iptv-api/refs/heads/master/output/user_result.m3u%E2%80%8B" target="_blank">Raw URL: user_result.m3u</a>的更新地址添加到Potplayer即可正常播放 
+> 有详细的操作文档可以将该项目Fork到自己的仓库, 在user_demo.txt设置所需节目注意不要太多, 在user_config.ini文件里设置好各参数, 开启Github的工作流可以实现每天早晚六点的自动更新, 只要将output下<a href="https://raw.githubusercontent.com/QING-XIAO/iptv-api/refs/heads/master/output/result.m3u" target="_blank">Raw URL: result.m3u</a>的更新地址添加到Potplayer即可正常播放 
 
 - #### localsend – 跨平台文件互传
 > <a href="https://github.com/localsend/localsend" target="_blank">localsend</a>通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接
