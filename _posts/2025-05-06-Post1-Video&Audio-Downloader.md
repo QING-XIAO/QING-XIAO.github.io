@@ -14,16 +14,16 @@ tags:								     #标签
 
 ### <a href="https://www.internetdownloadmanager.com/" target="_blank">IDM</a>
 - #### Bilibili
-> 只需要在IDM里添加 **M4S**、**XS**两种文件类型, IDM即可在网页中嗅探出可下载链接
+> 只需要在IDM里添加 ```M4S```、```XS``` 两种文件类型, IDM即可在网页中嗅探出可下载链接
 >
-> **NOTE:** 视频和音频是分开下载的后续还要用 **ffmpeg** 工具进行合并
+> **NOTE:** 视频和音频是分开下载的后续还要用 ```ffmpeg``` 工具进行合并
 
   ```
   下载 == 选项 == 常规 == 自定义浏览器中的IDM下载浮动条 == 添加 == M4S、XS
   ```
 
 - #### Youtube
-> IDM可以说是Youtube视频下载利器, 各种分辨率都可以嗅探出来, 但是最近YT和IDM好像杠上了要么浮动条识别不出来要么只能下载360p视频, 若不能正常使用则试试 **yt-dlp**
+> IDM可以说是Youtube视频下载利器, 各种分辨率都可以嗅探出来, 但是最近YT和IDM好像杠上了要么浮动条识别不出来要么只能下载360p视频, 若不能正常使用则试试 ```yt-dlp```
 
 ![1](https://raw.githubusercontent.com/QING-XIAO/giscus-comments/main/img/post/20250506/img1.jpg)
 
@@ -37,7 +37,7 @@ tags:								     #标签
 >
 > 3.安装 <a href="https://github.com/yt-dlp/yt-dlp/releases" target="_blank">yt-dlp.exe</a>
 >
-> **Note:** 务必要将Python、FFmpeg、yt-dlp所在目录添加到 **系统环境变量**.
+> **Note:** 务必要将Python、FFmpeg、yt-dlp所在目录添加到 ```系统环境变量```.
 
 - #### 使用方法
 > 列出每个视频的可用格式
